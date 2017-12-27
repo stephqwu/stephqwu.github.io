@@ -131,7 +131,7 @@ fieldset[disabled] .navbar-minimal .btn-link:focus {
 /* Intro + some general styling */
 
 .intro .container {
-  border-left: .2em dotted #cc0000;
+
   padding: 7em;
   text-align: center;
 }
@@ -182,8 +182,9 @@ fieldset[disabled] .navbar-minimal .btn-link:focus {
 }
 
 .section .container {
-  background-color: #190A0A;
+  background-color: #11190A;
   border-bottom: .2em solid black;
+  border-left: .2em dotted #cc0000;
   padding-bottom: 1em;
   padding-left: 2.3em;
   padding-right: 2.3em
