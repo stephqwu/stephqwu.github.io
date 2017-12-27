@@ -176,15 +176,15 @@ fieldset[disabled] .navbar-minimal .btn-link:focus {
 .about-text-content p {
   font-family: 'Open Sans', sans-serif;
   font-size: 1.2em;
-  border-left: .2em solid #cc0000;
+  border-left: .2em dotted #cc0000;
   padding-left: .8em;
   margin-bottom: .8em;
 }
 
 .section .container {
-  background-color: #11190A;
-  border-bottom: .2em solid black;
-  border-left: .2em dotted #cc0000;
+  /* background-color: #11190A;
+  border-bottom: .2em solid black; 
+  border-left: .2em dotted #cc0000;*/
   padding-bottom: 1em;
   padding-left: 2.3em;
   padding-right: 2.3em
