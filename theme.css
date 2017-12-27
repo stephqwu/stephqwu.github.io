@@ -131,7 +131,7 @@ fieldset[disabled] .navbar-minimal .btn-link:focus {
 /* Intro + some general styling */
 
 .intro .container {
-  border-bottom: .2em dotted #cc0000;
+  border-left: .2em dotted #cc0000;
   padding: 7em;
   text-align: center;
 }
