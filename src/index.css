@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Didact Gothic", sans-serif;
+  font-size: 16px;
+  color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Fira Mono", monospace;
+}
+
+.App .navbar {
+  font-family: "Didact Gothic";
+}
+
+.App .navbar-brand {
+  font-family: "Didact Gothic";
+}
+
+.App .navdropdown {
+  width: 100px !important;
+}
+
+.App .menuitem {
+  width: 100px !important;
+}
+
+.App .jumbotron p {
+  font-size: 19px;
+  padding-right: 80px;
+  padding-left: 80px;
+  padding-top: 6px;
+  margin: 0 auto;
+  width: 80%
+}
+
+.App .jumbotron {
+  align-items: center;
+}
+
+.App .glyphicon {
+  font-size: 85%;
+  /* color: #00FE44; */
+}
+
+/* select.form-control,
+textarea.form-control,
+input.form-control {
+  font-size: 16px;
+}
+input[type=file] {
+  width: 100%;
+} */
