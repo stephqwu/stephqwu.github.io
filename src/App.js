@@ -50,7 +50,6 @@ class App extends Component {
             <img src="./pic.jpg" alt="temporary image"/>
         </header>
           <div class = "row align-items-center justify-content-center">
-              <div class = "col-md-2 col-md-offset-5"></div>
           <Jumbotron>
               {/* <h1 class = "text-left">Hello, world!</h1>
               <p class = "text-left">
@@ -60,6 +59,7 @@ class App extends Component {
               <p>
                   <Button bsStyle="primary">Learn more</Button>
               </p> */}
+              <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3 row align-items-center justify-content-center">
               <h2 className="display-4">Hello, world!</h2>
               <p className="lead">I'm Stephanie! 😊 &nbsp;I'm currently working towards a Combined Major in Business and Computer
                   Science at the University of British Columbia, Vancouver. &nbsp;In the past, I've been a busy part of the
@@ -78,8 +78,9 @@ class App extends Component {
                       {/* <Button bsSize="large" href="#" role="button">Learn more</Button>
                       <a className="btn btn-primary btn-lg" href="#" role="button">See what I'm up to</a> */}
                   </p>
-
+      </div>
           </Jumbotron>
+          </div>
               <div className="section">
                   <div className="container">
                       <h3 className="section-head" id="portfolio"><span class="glyphicon glyphicon-console"></span> Projects</h3>
@@ -127,7 +128,7 @@ class App extends Component {
                                       alt="A picture of the universe."></img>
                                       <div className="caption">
                                           <h3>Placeholder Image</h3>
-                                          <p>Design</p>
+                                          <p>Software design</p>
                                       </div>
                               </div>
                           </div>
@@ -162,7 +163,6 @@ class App extends Component {
                   </div>
               </div>
           </div>
-      </div>
     );
   }
 }
