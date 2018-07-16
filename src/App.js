@@ -62,7 +62,7 @@ class App extends Component {
               <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3 row align-items-center justify-content-center">
               <h2 className="display-4">Hello, world!</h2>
               <p className="lead">I'm Stephanie! 😊 &nbsp;I'm currently working towards a Combined Major in Business and Computer
-                  Science at the University of British Columbia, Vancouver. &nbsp;In the past, I've been a busy part of the
+                  Science @ UBC Vancouver. &nbsp;In the past, I've been a busy part of the
                   <a href = "http://cus.ca/about-us/"> Commerce
                       Undergraduate Society</a>, the
                   <a href="https://ubccsss.org/"> Computer Science Student Society</a>, and the team
