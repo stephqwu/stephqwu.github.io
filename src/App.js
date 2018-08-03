@@ -69,7 +69,7 @@ class App extends Component {
                   <a href="https://ubccsss.org/"> Computer Science Student Society</a>, and the team
                   behind mega-hackathon<a href="https://www.nwhacks.io/"> nwHacks</a>. &nbsp;{/*},
                   and am currently part of ______ and ______.*/ }
-                   One day I hope to be a part of advancing a technology that betters lives.</p>
+                   I aim to apply my skills toward advancing technology that betters lives.</p>
               <hr className="my-4"></hr>
               <p>Find snippets I've shared on <a href="https://twitter.com/randomtechgirl">Twitter</a>,
                   projects I've contributed to on <a href="https://github.com/stephqwu">Github</a>, and ideas I like
