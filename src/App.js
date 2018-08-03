@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Jumbotron, Nav, Navbar, NavItem, NavDropdown, MenuItem, Button } from 'react-bootstrap';
+import { Jumbotron, Nav, Navbar, NavItem } from 'react-bootstrap';
 import { LinkContainer } from "react-router-bootstrap";
 import './App.css';
 
@@ -61,19 +61,16 @@ class App extends Component {
                   <Button bsStyle="primary">Learn more</Button>
               </p> */}
 
-              <h2 className="display-4">Hello, world!</h2>
-                  <p className="lead">I'm Stephanie! <span role="img" aria-label="smile">😊</span> &nbsp;I'm currently working towards a Combined Major in Business and Computer
-                  Science @ UBC Vancouver. &nbsp;In the past, I've been a busy part of the
+              <h2 className="display-4">👋 Hello, world!</h2>
+                  <p className="lead">I'm Stephanie! &nbsp;I'm currently in my third year of the B.Comm. + B.Sc. in Computer Science program @ UBC Vancouver. &nbsp;Outside my coursework, I've worked on the digital media teams of the
                   <a href = "http://cus.ca/about-us/"> Commerce
                       Undergraduate Society</a>, the
-                  <a href="https://ubccsss.org/"> Computer Science Student Society</a>, and the team
-                  behind mega-hackathon<a href="https://www.nwhacks.io/"> nwHacks</a>. &nbsp;{/*},
+                  <a href="https://ubccsss.org/"> Computer Science Student Society</a>, and the supersize annual hackathon<a href="https://www.nwhacks.io/"> nwHacks</a>. &nbsp;{/*},
                   and am currently part of ______ and ______.*/ }
-                   I aim to apply my skills toward advancing technology that betters lives.</p>
+                      I've also been a teaching assistant with <a href="https://www.cs.ubc.ca/students/undergrad/degree-programs">UBC Computer Science</a> and a singer with <a href="https://ubcacappella.com/about/">UBC A Capella</a>. </p>
               <hr className="my-4"></hr>
-              <p>Find snippets I've shared on <a href="https://twitter.com/randomtechgirl">Twitter</a>,
-                  projects I've contributed to on <a href="https://github.com/stephqwu">Github</a>, and ideas I like
-                  on <a href="https://medium.com/@steph_w.">Medium</a>.</p>
+              <p>In my free time I like to share snippets on <a href="https://twitter.com/randomtechgirl">Twitter</a>,
+                  contribute to projects on <a href="https://github.com/stephqwu">Github</a>, and clap on <a href="https://medium.com/@steph_w.">Medium</a>.</p>
               <br></br>
                   <p className="lead">
                       {/* <Button bsSize="large" href="#" role="button">Learn more</Button>
