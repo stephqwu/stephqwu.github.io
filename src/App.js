@@ -71,8 +71,9 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                       I've also been a teaching assistant with <a href="https://www.cs.ubc.ca/students/undergrad/degree-programs">UBC Computer Science</a> and a singer with <a href="https://ubcacappella.com/about/">UBC A Capella</a>. </p>
               <hr className="my-4"></hr>
               <p>In my free time I like to share snippets on <a href="https://twitter.com/randomtechgirl">Twitter</a>,
-                  contribute to projects on <a href="https://github.com/stephqwu">Github</a>, and clap on <a href="https://medium.com/@steph_w.">Medium</a>.</p>
+                  contribute to projects on <a href="https://github.com/stephqwu">Github</a>, and clap on <a href="https://medium.com/@steph_w.">Medium</a>. </p>
               <br></br>
+              <p>✨ Algorithm solutions <a href="https://gist.github.com/stephqwu">here</a> ✨</p>
                   <p className="lead">
                       {/* <Button bsSize="large" href="#" role="button">Learn more</Button>
                       <a className="btn btn-primary btn-lg" href="#" role="button">See what I'm up to</a> */}
@@ -116,8 +117,8 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                                       src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Large-scale_structure_of_light_distribution_in_the_universe.jpg"
                                       alt="A picture of the universe."></img>
                                       <div className="caption">
-                                          <h3>Placeholder Image</h3>
-                                          <p>Stay tuned</p>
+                                          <h3>Photography portfolio</h3>
+                                          <p>Custom portfolio site for my personal photography.</p>
                                       </div>
                               </div>
                           </div>
@@ -162,6 +163,9 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                       </div>
                   </div>
               </div>
+          <footer>
+              <a href = "hackerrank.com"><img src = "https://static.brandfolder.com/hackerrank/logo/hackerrank-primary-logo.png"></img></a>
+          </footer>
           </div>
     );
   }
