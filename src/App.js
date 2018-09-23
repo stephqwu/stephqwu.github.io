@@ -1,11 +1,24 @@
 import React, { Component } from 'react';
-import { Jumbotron, Nav, Navbar, NavItem } from 'react-bootstrap';
+import { Button, ButtonToolbar, Jumbotron, Nav, Navbar, NavItem } from 'react-bootstrap';
 import { LinkContainer } from "react-router-bootstrap";
 import './App.css';
+import MyLargeModal from './containers/Modal.js';
 
 
 class App extends Component {
+
+    constructor(props, context) {
+        super(props, context);
+
+        this.state = {
+            lgShow: false
+        };
+    }
+
   render() {
+
+        let lgClose = () => this.setState({lgShow: false});
+
     return (
       <div className="App">
         <header>
@@ -73,7 +86,7 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
               <p>In my free time I like to share snippets on <a href="https://twitter.com/randomtechgirl">Twitter</a>,
                   contribute to projects on <a href="https://github.com/stephqwu">Github</a>, and clap on <a href="https://medium.com/@steph_w.">Medium</a>. </p>
               <br></br>
-              <p>✨ Algorithm solutions <a href="https://gist.github.com/stephqwu">here</a> ✨</p>
+              <p>✨ <em>Algorithm solutions <a href="https://gist.github.com/stephqwu">here</a></em> ✨</p>
                   <p className="lead">
                       {/* <Button bsSize="large" href="#" role="button">Learn more</Button>
                       <a className="btn btn-primary btn-lg" href="#" role="button">See what I'm up to</a> */}
@@ -94,7 +107,13 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                                       alt="A picture of the universe."></img>
                                       <div className="caption">
                                           <h3>Placeholder Image</h3>
-                                          <p>Stay tuned</p>
+                                          <p>Undetermined software development/design project.</p>
+                                          <ButtonToolbar className = "pull-right">
+                                              <Button bsStyle="link" bsSize="default">
+                                                  Demo
+                                              </Button>
+                                              <Button bsStyle="link" bsSize="default">About</Button>
+                                          </ButtonToolbar>
                                       </div>
                               </div>
                           </div>
@@ -105,22 +124,34 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                                       alt="A picture of the universe."></img>
                                       <div className="caption">
                                           <h3>Placeholder Image</h3>
-                                          <p>Stay tuned</p>
+                                          <p>Web-app that parses and queries UBC metadata.</p>
+                                          <ButtonToolbar className = "pull-right">
+                                              <Button bsStyle="link" bsSize="default">
+                                                  Demo
+                                              </Button>
+                                              <Button bsStyle="link" bsSize="default">About</Button>
+                                          </ButtonToolbar>
                                       </div>
                               </div>
                           </div>
                       </div>
                       <div className="row">
                           <div className="col-md-6">
-                              <div className="thumbnail">
-                                  <img
-                                      src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Large-scale_structure_of_light_distribution_in_the_universe.jpg"
-                                      alt="A picture of the universe."></img>
+                              <a onClick={() => this.setState({ lgShow: true})}><div className="thumbnail">
+                                  <img src="chrome.png"></img>
                                       <div className="caption">
                                           <h3>Photography portfolio</h3>
                                           <p>Custom portfolio site for my personal photography.</p>
+                                          <ButtonToolbar className = "pull-right">
+                                              <a target="_blank" href="https://stephsphotos.tumblr.com"><Button bsStyle="link" bsSize="default">
+                                                Demo
+                                              </Button></a>
+                                              <Button bsStyle="link" bsSize="default">About</Button>
+                                          </ButtonToolbar>
                                       </div>
                               </div>
+                              </a>
+                              <MyLargeModal show={this.state.lgShow} onHide={lgClose}/>
                           </div>
                           <div className="col-md-6">
                               <div className="thumbnail">
@@ -129,7 +160,13 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                                       alt="A picture of the universe."></img>
                                       <div className="caption">
                                           <h3>Placeholder Image</h3>
-                                          <p>Software design</p>
+                                          <p>Chrome extension for accessible notes.</p>
+                                          <ButtonToolbar className = "pull-right">
+                                              <Button bsStyle="link" bsSize="default">
+                                                  Demo
+                                              </Button>
+                                              <Button bsStyle="link" bsSize="default">About</Button>
+                                          </ButtonToolbar>
                                       </div>
                               </div>
                           </div>
@@ -146,6 +183,12 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                                       <div className="caption">
                                           <h3>Placeholder Image</h3>
                                           <p>Stay tuned</p>
+                                          <ButtonToolbar className = "pull-right">
+                                              <Button bsStyle="link" bsSize="default">
+                                                  Demo
+                                              </Button>
+                                              <Button bsStyle="link" bsSize="default">About</Button>
+                                          </ButtonToolbar>
                                       </div>
                               </div>
                           </div>
@@ -157,6 +200,12 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                                       <div className="caption">
                                           <h3>Placeholder Image</h3>
                                           <p>Stay tuned</p>
+                                          <ButtonToolbar className = "pull-right">
+                                              <Button bsStyle="link" bsSize="default">
+                                                  Demo
+                                              </Button>
+                                              <Button bsStyle="link" bsSize="default">About</Button>
+                                          </ButtonToolbar>
                                       </div>
                               </div>
                           </div>
@@ -170,5 +219,5 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
     );
   }
 }
-
 export default App;
+
