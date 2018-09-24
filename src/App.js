@@ -213,7 +213,7 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                   </div>
               </div>
           <footer>
-              <a href = "hackerrank.com"><img src = "https://static.brandfolder.com/hackerrank/logo/hackerrank-primary-logo.png"></img></a>
+              {/* <a href = "hackerrank.com"><img src = "https://static.brandfolder.com/hackerrank/logo/hackerrank-primary-logo.png"></img></a> */}
           </footer>
           </div>
     );
