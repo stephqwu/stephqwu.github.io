@@ -138,7 +138,7 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                       <div className="row">
                           <div className="col-md-6">
                               <a onClick={() => this.setState({ lgShow: true})}><div className="thumbnail">
-                                  <img src="chrome.png"></img>
+                                  <img src="./chrome.png"></img>
                                       <div className="caption">
                                           <h3>Photography portfolio</h3>
                                           <p>Custom portfolio site for my personal photography.</p>
