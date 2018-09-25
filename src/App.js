@@ -143,7 +143,7 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                                           <h3>Photography portfolio</h3>
                                           <p>Custom portfolio site for my personal photography.</p>
                                           <ButtonToolbar className = "pull-right">
-                                              <a target="_blank" href="https://stephsphotos.tumblr.com"><Button bsStyle="link" bsSize="default">
+                                              <a target="_blank" href="https://stephsphotos.tumblr.com"><Button bsStyle="default" bsSize="default">
                                                 Demo
                                               </Button></a>
                                               <Button bsStyle="link" bsSize="default">About</Button>
