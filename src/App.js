@@ -83,7 +83,7 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                   and am currently part of ______ and ______.*/ }
                       I've also been a teaching assistant with <a href="https://www.cs.ubc.ca/students/undergrad/degree-programs">UBC Computer Science</a> and a singer with <a href="https://ubcacappella.com/about/">UBC A Capella</a>. </p>
               <hr className="my-4"></hr>
-              <p>In my free time I like to share snippets on <a href="https://twitter.com/randomtechgirl">Twitter</a>,
+              <p>In my spare time I like to share snippets on <a href="https://twitter.com/randomtechgirl">Twitter</a>,
                   contribute to projects on <a href="https://github.com/stephqwu">Github</a>, and clap on <a href="https://medium.com/@steph_w.">Medium</a>. </p>
               <br></br>
               <p>✨ <em>Algorithm solutions <a href="https://gist.github.com/stephqwu">here</a></em> ✨</p>
