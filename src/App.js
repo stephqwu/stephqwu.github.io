@@ -212,9 +212,20 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                       </div>
                   </div>
               </div>
-          <footer>
-              {/* <a href = "hackerrank.com"><img src = "https://static.brandfolder.com/hackerrank/logo/hackerrank-primary-logo.png"></img></a> */}
-          </footer>
+{/*<footer>
+             /* <a href = "hackerrank.com"><img src = "https://static.brandfolder.com/hackerrank/logo/hackerrank-primary-logo.png"></img></a>
+          </footer>*/}
+  <Footer color="stylish-color-dark" className="page-footer font-small pt-4 mt-4">
+                 <Container fluid className="text-center text-md-left">
+<div className="text-center">
+                    <ul className="list-unstyled list-inline">
+                        <li className="list-inline-item"><a className="btn-floating btn-sm btn-tw mx-1"><i className="fa fa-twitter"> </i></a></li>
+                        <li className="list-inline-item"><a className="btn-floating btn-sm btn-li mx-1"><i className="fa fa-linkedin"> </i></a></li>
+                        <li className="list-inline-item"><a className="btn-floating btn-sm btn-dribbble mx-1"><i className="fa fa-dribbble"> </i></a></li>
+                    </ul>
+                </div>
+    </Container>
+</Footer>
           </div>
     );
   }
