@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Button, ButtonToolbar, Jumbotron, Nav, Navbar, NavItem } from 'react-bootstrap';
+import { Button, ButtonToolbar, Jumbotron, Nav, Navbar, NavItem, Footer } from 'react-bootstrap';
 import { LinkContainer } from "react-router-bootstrap";
 import './App.css';
 import MyLargeModal from './containers/Modal.js';
