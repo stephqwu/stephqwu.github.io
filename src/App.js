@@ -48,7 +48,7 @@ class App extends Component {
                         <NavItem eventKey={1} href="#">
                             Status
                         </NavItem>
-                        <LinkContainer to="/projects">
+                        <LinkContainer to="#projects">
                         <NavItem eventKey={2} href="#">
                             Projects
                         </NavItem>
@@ -95,7 +95,7 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
           </Jumbotron>
               </div>
           </div>
-              <div className="section">
+              <div className="section" name = "projects">
                   <div className="container">
                       <h3 className="section-head" id="portfolio"><span class="glyphicon glyphicon-console"></span> Projects</h3>
                       <br></br>
