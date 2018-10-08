@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-import { Button, ButtonToolbar, Jumbotron, Nav, Navbar, NavItem, Footer } from 'react-bootstrap';
+import { Button, ButtonToolbar, Jumbotron, Nav, Navbar, NavItem, Row, Col } from 'react-bootstrap';
 import { LinkContainer } from "react-router-bootstrap";
+import { Container, Footer } from 'mdbreact';
 import './App.css';
 import MyLargeModal from './containers/Modal.js';
 
@@ -214,20 +215,35 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
               </div>
 {/*<footer>
              /* <a href = "hackerrank.com"><img src = "https://static.brandfolder.com/hackerrank/logo/hackerrank-primary-logo.png"></img></a>
-          </footer>*/}
-  <Footer color="stylish-color-dark" className="page-footer font-small pt-4 mt-4">
-                 <Container fluid className="text-center text-md-left">
-<div className="text-center">
-                    <ul className="list-unstyled list-inline">
-                        <li className="list-inline-item"><a className="btn-floating btn-sm btn-tw mx-1"><i className="fa fa-twitter"> </i></a></li>
-                        <li className="list-inline-item"><a className="btn-floating btn-sm btn-li mx-1"><i className="fa fa-linkedin"> </i></a></li>
-                        <li className="list-inline-item"><a className="btn-floating btn-sm btn-dribbble mx-1"><i className="fa fa-dribbble"> </i></a></li>
-                    </ul>
+          </footer>*/} 
+<br></br>
+<br></br>
+<Footer color="indigo" className="font-small pt-0">
+                <Container>
+                    <Row>
+                        <Col md="12">
+                            <div className="mb-5 flex-center">
+                            <a className="fb-ic"><i className="fa fa-facebook fa-lg white-text mr-md-5 mr-3 fa-2x"> </i></a>
+                            <a className="tw-ic"><i className="fa fa-twitter fa-lg white-text mr-md-5 mr-3 fa-2x"> </i></a>
+                            <a className="gplus-ic"><i className="fa fa-google-plus fa-lg white-text mr-md-5 mr-3 fa-2x"> </i></a>
+                            <a className="li-ic"><i className="fa fa-linkedin fa-lg white-text mr-md-5 mr-3 fa-2x"> </i></a>
+                            <a className="ins-ic"><i className="fa fa-instagram fa-lg white-text mr-md-5 mr-3 fa-2x"> </i></a>
+                            <a className="pin-ic"><i className="fa fa-pinterest fa-lg white-text fa-2x"> </i></a>
+                            </div>
+                        </Col>
+                    </Row>
+                </Container>
+<br></br>
+                <div className="footer-copyright text-center py-3">
+                    <Container fluid>
+                        &copy; {(new Date().getFullYear())} Stephanie Wu
+                    </Container>
                 </div>
-    </Container>
-</Footer>
-          </div>
-    );
+            </Footer>   
+<br></br>
+<br></br>
+</div>
+ );
   }
 }
 export default App;
