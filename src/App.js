@@ -80,7 +80,7 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                   <p className="lead">I'm Stephanie! &nbsp;I'm currently in my third year of the B.Comm. + B.Sc. in Computer Science program @ UBC Vancouver. &nbsp;Outside my coursework, I've worked on the digital media teams of the
                   <a href = "http://cus.ca/about-us/"> Commerce
                       Undergraduate Society</a>, the
-                  <a href="https://ubccsss.org/"> Computer Science Student Society</a>, and the supersize annual hackathon<a href="https://www.nwhacks.io/"> nwHacks</a>. &nbsp;{/*,
+                  <a href="https://ubccsss.org/"> Computer Science Student Society</a>, and annual hackathon<a href="https://www.nwhacks.io/"> nwHacks</a>. &nbsp;{/*,
                   and am currently part of ______ and ______.*/ }
                       I've also been a teaching assistant with <a href="https://www.cs.ubc.ca/students/undergrad/degree-programs">UBC Computer Science</a> and a singer with <a href="https://ubcacappella.com/about/">UBC A Capella</a>. Recently, I've joined the software engineering team <a href="https://www.ubclaunchpad.com/">UBC Launch Pad</a>. </p>
               <hr className="my-4"></hr>
