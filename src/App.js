@@ -82,7 +82,7 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                       Undergraduate Society</a>, the
                   <a href="https://ubccsss.org/"> Computer Science Student Society</a>, and annual hackathon<a href="https://www.nwhacks.io/"> nwHacks</a>. &nbsp;I'm currently part of the <a href="https://www.ubclaunchpad.com/">UBC Launch Pad</a> software engineering club as well as the <a href="http://engineering.later.com/">engineering team</a> at <a href="https://later.com">Later</a>.
                       {/*I've also been a teaching assistant with <a href="https://www.cs.ubc.ca/students/undergrad/degree-programs">UBC Computer Science</a> and a singer with <a href="https://ubcacappella.com/about/">UBC A Capella</a>.*/}</p>
-              <hr className="my-4"></hr>
+              <hr className="my-3"></hr>
               <p>In my spare time I like to share snippets on <a href="https://twitter.com/randomtechgirl">Twitter</a>,
                   contribute to projects on <a href="https://github.com/stephqwu">Github</a>, and clap on <a href="https://medium.com/@steph_w.">Medium</a>. </p>
               <br></br>
