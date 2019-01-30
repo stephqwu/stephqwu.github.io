@@ -80,9 +80,9 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                   <p className="lead">I'm Stephanie! &nbsp;I'm currently in my third year of the B.Comm. + B.Sc. in Computer Science program @ UBC Vancouver. &nbsp;Outside my coursework, I've worked on the digital media teams of the
                   <a href = "http://cus.ca/about-us/"> Commerce
                       Undergraduate Society</a>, the
-                  <a href="https://ubccsss.org/"> Computer Science Student Society</a>, and annual hackathon<a href="https://www.nwhacks.io/"> nwHacks</a>. &nbsp;{/*,
-                  and am currently part of ______ and ______.*/ }
-                      I've also been a teaching assistant with <a href="https://www.cs.ubc.ca/students/undergrad/degree-programs">UBC Computer Science</a> and a singer with <a href="https://ubcacappella.com/about/">UBC A Capella</a>. Recently, I've joined the software engineering team <a href="https://www.ubclaunchpad.com/">UBC Launch Pad</a>. </p>
+                  <a href="https://ubccsss.org/"> Computer Science Student Society</a>, and annual hackathon<a href="https://www.nwhacks.io/"> nwHacks</a>
+                      and am currently part of the UBC Launch Pad software engineering club <a href="https://www.ubclaunchpad.com/"> as well as the Engineering team at <a href="https://later.com">Later</a>.
+                      {/*I've also been a teaching assistant with <a href="https://www.cs.ubc.ca/students/undergrad/degree-programs">UBC Computer Science</a> and a singer with <a href="https://ubcacappella.com/about/">UBC A Capella</a>.*/}</p>
               <hr className="my-4"></hr>
               <p>In my spare time I like to share snippets on <a href="https://twitter.com/randomtechgirl">Twitter</a>,
                   contribute to projects on <a href="https://github.com/stephqwu">Github</a>, and clap on <a href="https://medium.com/@steph_w.">Medium</a>. </p>
