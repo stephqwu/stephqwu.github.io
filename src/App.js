@@ -106,8 +106,8 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                                       src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Large-scale_structure_of_light_distribution_in_the_universe.jpg"
                                       alt="A picture of the universe."></img>
                                       <div className="caption">
-                                          <h3>Placeholder Image</h3>
-                                          <p>Undetermined software development/design project.</p>
+                                          <h3>IN PROGRESS - Later Analytics for Facebook</h3>
+                                          <p>Self-governed development of a feature that collects, stores, and displays user data for their Facebook account.</p>
                                           <ButtonToolbar className = "pull-right">
                                               <Button bsStyle="link" bsSize="default">
                                                   Demo
