@@ -77,7 +77,7 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
               </p> */}
 
               <h2 className="display-4">👋 Hello, world!</h2>
-                  <p className="lead">I'm Stephanie! &nbsp;I'm currently in my third year of the B.Comm. + B.Sc. in Computer Science program @ UBC Vancouver. &nbsp;Outside my coursework, I've worked on the digital media teams of the
+                  <p className="lead">I'm Stephanie! &nbsp;I'm currently in my third year of the B.Comm. + B.Sc. in Computer Science program at UBC Vancouver. &nbsp;Outside my coursework, I've worked on the digital media teams of the
                   <a href = "http://cus.ca/about-us/"> Commerce
                       Undergraduate Society</a>, the
                   <a href="https://ubccsss.org/"> Computer Science Student Society</a>, and annual hackathon<a href="https://www.nwhacks.io/"> nwHacks</a>. &nbsp;I'm currently part of the <a href="https://www.ubclaunchpad.com/">UBC Launch Pad</a> software engineering club as well as the <a href="http://engineering.later.com/">engineering team</a> at <a href="https://later.com">Later</a>.
