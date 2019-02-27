@@ -222,12 +222,12 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                     <Row>
                         <div class="col-md-12 py-5">
                             <div class="mb-5 flex-center">
-                            <a className="fb-ic"><i className="fa fa-facebook fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a>
+                                {/* <a className="fb-ic"><i className="fa fa-facebook fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a> */}
                             <a href="https://www.twitter.com/randomtechgirl" target="_blank" className="tw-ic"><i className="fa fa-twitter fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a>
                             <a href="https://www.github.com/stephqwu" target="_blank" className="gh-ic"><i className="fa fa-github fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a>
                             <a className="li-ic"><i className="fa fa-linkedin fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a>
                             <a className="ins-ic"><i className="fa fa-instagram fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a>
-                            <a className="pin-ic"><i className="fa fa-pinterest fa-lg white-text fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a>
+                                {/* <a className="pin-ic"><i className="fa fa-pinterest fa-lg white-text fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a> */}
                             </div>
                         </div>
                     </Row>
