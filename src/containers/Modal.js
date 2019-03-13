@@ -65,7 +65,7 @@ export default class MyLargeModal extends Component {
                 </Modal.Body>
                 <Modal.Footer>
                     <ButtonToolbar className = "pull-right">
-                        <a target="_blank" href="https://stephsphotos.tumblr.com"><Button bsStyle = "primary">
+                        <a target="_blank" rel="noopener noreferrer" href="https://stephsphotos.tumblr.com"><Button bsStyle = "primary">
                             Demo
                         </Button></a>
                         <Button onClick={this.props.onHide}>Close</Button>
