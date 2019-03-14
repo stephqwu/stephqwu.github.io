@@ -60,7 +60,7 @@ class App extends Component {
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>
-            <img src="./pic.jpg" alt="temporary image"/>
+            <img src="./pic.jpg" alt=""/>
         </header>
           <div class = "row align-items-center justify-content-center">
               <div
