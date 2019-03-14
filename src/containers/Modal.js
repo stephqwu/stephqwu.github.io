@@ -13,7 +13,7 @@ export default class MyLargeModal extends Component {
                     <Modal.Title id="contained-modal-title-lg">Photography portfolio</Modal.Title>
                 </Modal.Header>
                 <Modal.Body>
-                    <img src="chrome.png" width="100%"></img>
+                    <img src="chrome.png" alt="" width="100%"></img>
                     <div className="reduced">
                     <h4>About this one</h4>
                     <p>
