@@ -76,7 +76,7 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                   <Button bsStyle="primary">Learn more</Button>
               </p> */}
 
-              <h2 className="display-4">👋 Hello, world!</h2>
+              <h2 className="display-4"><span role="img" aria-label="*Friendly wave*">👋</span> Hello, world!</h2>
                   <p className="lead">I'm Stephanie! &nbsp;I'm currently in my third year of the B.Comm. + B.Sc. in Computer Science program at UBC Vancouver. &nbsp;Outside my coursework, I've worked on the digital media teams of the
                   <a href = "http://cus.ca/about-us/"> Commerce
                       Undergraduate Society</a>, the
