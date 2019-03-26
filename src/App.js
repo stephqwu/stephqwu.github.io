@@ -121,7 +121,7 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                               <div className="thumbnail">
                                   <img
                                       src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Large-scale_structure_of_light_distribution_in_the_universe.jpg"
-                                      alt="A picture of the universe."></img>
+                                      alt="Large-scale structure of light distribution in the universe"></img>
                                       <div className="caption">
                                           <h3>Placeholder Image</h3>
                                           <p>Web-app that parses and queries UBC metadata.</p>
@@ -138,7 +138,7 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                       <div className="row">
                           <div className="col-md-6">
                               <a onClick={() => this.setState({ lgShow: true})}><div className="thumbnail">
-                                  <img src="./chrome.PNG"></img>
+                                  <img src="./chrome.PNG" alt="Screenshot of Photography portfolio"></img>
                                       <div className="caption">
                                           <h3>Photography portfolio</h3>
                                           <p>Custom portfolio site for my personal photography.</p>
