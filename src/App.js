@@ -103,11 +103,11 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                           <div className="col-md-6">
                               <div className="thumbnail">
                                   <img
-                                      src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Large-scale_structure_of_light_distribution_in_the_universe.jpg"
-                                      alt="Large-scale structure of light distribution in the universe"></img>
+                                      src="./visualplanner-animation-web.gif"
+                                      alt="https://mk0laterblog4vkmxupe.kinstacdn.com/wp-content/uploads/2018/03/visualplanner-animation-web.gif"></img>
                                       <div className="caption">
                                           <h3>IN PROGRESS - Later Analytics for Facebook</h3>
-                                          <p>Independently-developed feature that collects, stores, and displays user data for their Facebook account.</p>
+                                          <p>Independently-developed feature that collects, stores, and displays user data for their Facebook account. <a target="_blank" href="https://later.com/blog/photo-editing-trends/">Gif credit</a>.</p>
                                           <ButtonToolbar className = "pull-right">
                                               <Button bsStyle="link" bsSize="default">
                                                   Demo
@@ -119,16 +119,20 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                           </div>
                           <div className="col-md-6">
                               <div className="thumbnail">
-                                  <img
-                                      src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Large-scale_structure_of_light_distribution_in_the_universe.jpg"
-                                      alt="Large-scale structure of light distribution in the universe"></img>
+                                  <img src="./great.PNG" alt="Screenshot of Internado"></img>
                                       <div className="caption">
-                                          <h3>Placeholder Image</h3>
-                                          <p>Web-app that parses and queries UBC metadata.</p>
+                                          <h3>IN PROGRESS - Internado internship portal</h3>
+                                          <p>Developed by <a target="_blank" href="https://github.com/ubclaunchpad/Internado">UBC Launch Pad</a>. <a target="_blank" href="https://www.figma.com/file/UzMP6n5OJ7F063dWyxDZe7Zd/Untitled?node-id=0%3A1">Design</a> by me. Walkthrough coming soon!!</p>
                                           <ButtonToolbar className = "pull-right">
+                                              {/*<a target="_blank" href="https://internado.ubclaunchpad.com/">
                                               <Button bsStyle="link" bsSize="default">
                                                   Demo
-                                              </Button>
+                                              </Button></a>*/}
+                                              <a target="_blank" href="https://www.figma.com/file/UzMP6n5OJ7F063dWyxDZe7Zd/Untitled?node-id=0%3A1">
+                                                  <Button bsStyle="default" bsSize="default">
+                                                      Figma
+                                                  </Button>
+                                              </a>
                                               <Button bsStyle="link" bsSize="default">About</Button>
                                           </ButtonToolbar>
                                       </div>
