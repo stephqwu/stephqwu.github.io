@@ -122,7 +122,7 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                                   <img src="./great.png" alt="Screenshot of Internado"></img>
                                       <div className="caption">
                                           <h3>IN PROGRESS - Internado internship portal</h3>
-                                          <p>Developed by <a target="_blank" href="https://github.com/ubclaunchpad/Internado">UBC Launch Pad</a>. <a target="_blank" href="https://www.figma.com/file/UzMP6n5OJ7F063dWyxDZe7Zd/Untitled?node-id=0%3A1">Design</a> by me. Walkthrough coming soon!!</p>
+                                          <p>Developed by <a target="_blank" rel="noopener noreferrer" href="https://github.com/ubclaunchpad/Internado">UBC Launch Pad</a>. <a target="_blank" rel="noopener noreferrer" href="https://www.figma.com/file/UzMP6n5OJ7F063dWyxDZe7Zd/Untitled?node-id=0%3A1">Design</a> by me. Walkthrough coming soon!!</p>
                                           <ButtonToolbar className = "pull-right">
                                               {/*<a target="_blank" href="https://internado.ubclaunchpad.com/">
                                               <Button bsStyle="link" bsSize="default">
