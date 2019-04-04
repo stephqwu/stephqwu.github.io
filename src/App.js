@@ -128,7 +128,7 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                                               <Button bsStyle="link" bsSize="default">
                                                   Demo
                                               </Button></a>*/}
-                                              <a target="_blank" href="https://www.figma.com/file/UzMP6n5OJ7F063dWyxDZe7Zd/Untitled?node-id=0%3A1">
+                                              <a target="_blank" rel="noopener noreferrer" href="https://www.figma.com/file/UzMP6n5OJ7F063dWyxDZe7Zd/Untitled?node-id=0%3A1">
                                                   <Button bsStyle="default" bsSize="default">
                                                       Figma
                                                   </Button>
