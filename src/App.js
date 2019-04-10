@@ -161,7 +161,7 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                               <div className="thumbnail">
                                   <img
                                       src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Large-scale_structure_of_light_distribution_in_the_universe.jpg"
-                                      alt="A picture of the universe."></img>
+                                      alt="Temp"></img>
                                       <div className="caption">
                                           <h3>Placeholder Image</h3>
                                           <p>Chrome extension for accessible notes.</p>
@@ -183,7 +183,7 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                               <div className="thumbnail">
                                   <img
                                       src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Large-scale_structure_of_light_distribution_in_the_universe.jpg"
-                                      alt="A picture of the universe."></img>
+                                      alt="Temp"></img>
                                       <div className="caption">
                                           <h3>Placeholder Image</h3>
                                           <p>Stay tuned</p>
@@ -200,7 +200,7 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                               <div className="thumbnail">
                                   <img
                                       src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Large-scale_structure_of_light_distribution_in_the_universe.jpg"
-                                      alt="A picture of the universe."></img>
+                                      alt="Temp"></img>
                                       <div className="caption">
                                           <h3>Placeholder Image</h3>
                                           <p>Stay tuned</p>
