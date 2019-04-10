@@ -227,12 +227,12 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                         <div class="col-md-12 py-5">
                             <div class="mb-5 flex-center">
                                 {/* <a className="fb-ic"><i className="fa fa-facebook fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a> */}
-                            <a href="https://www.twitter.com/randomtechgirl" target="_blank" className="tw-ic"><i className="fa fa-twitter fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a>
+                            <a href="https://www.twitter.com/randomtechgirl" target="_blank" rel="noopener noreferrer" className="tw-ic"><i className="fa fa-twitter fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a>
                             <a className="li-ic"><i className="fa fa-linkedin fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a>
-                                <a href="https://www.github.com/stephqwu" target="_blank" className="gh-ic"><i className="fa fa-github fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a>
-                                <a href="https://stackoverflow.com/users/10745784/s-wu" target="_blank" className="so-ic"><i className="fa fa-stack-overflow fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a>
+                                <a href="https://www.github.com/stephqwu" target="_blank" rel="noopener noreferrer" className="gh-ic"><i className="fa fa-github fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a>
+                                <a href="https://stackoverflow.com/users/10745784/s-wu" target="_blank" rel="noopener noreferrer" className="so-ic"><i className="fa fa-stack-overflow fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a>
                                 {/* <a className="ins-ic"><i className="fa fa-instagram fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a>*/}
-                                <a href="https://medium.com/@steph_w." target="_blank" className="hr-ic"><i className="fa fa-medium fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a>
+                                <a href="https://medium.com/@steph_w." target="_blank" rel="noopener noreferrer" className="hr-ic"><i className="fa fa-medium fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a>
                                 {/* <a className="pin-ic"><i className="fa fa-pinterest fa-lg white-text fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a> */}
                             </div>
                         </div>
