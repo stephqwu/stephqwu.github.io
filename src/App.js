@@ -223,7 +223,6 @@ Stephanie (italics) is a 3rd year student at the university of british columbia 
                     <Row>
                         <div class="col-md-12 py-5">
                             <div class="mb-5 flex-center">
-                                {/* <a className="fb-ic"><i className="fa fa-facebook fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a> */}
                             <a href="https://www.twitter.com/randomtechgirl" target="_blank" rel="noopener noreferrer" className="tw-ic"><i className="fa fa-twitter fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a>
                             <a className="li-ic"><i className="fa fa-linkedin fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a>
                                 <a href="https://www.github.com/stephqwu" target="_blank" rel="noopener noreferrer" className="gh-ic"><i className="fa fa-github fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a>
