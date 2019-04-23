@@ -68,8 +68,6 @@ class App extends Component {
           <Jumbotron>
               {/* <h1 class = "text-left">Hello, world!</h1>
               <p class = "text-left">
-                  This is a simple hero unit, a simple jumbotron-style component for calling
-                  extra attention to featured content or information.
 Stephanie (italics) is a 3rd year student at the university of british columbia that seeks to work with [insert very specific topic/area of work] that evokes the unknown (replace) - the lostness; the distance.
               </p>
               <p>
