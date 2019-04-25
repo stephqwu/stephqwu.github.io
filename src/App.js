@@ -68,7 +68,7 @@ class App extends Component {
           <Jumbotron>
               {/* <h1 class = "text-left">Hello, world!</h1>
               <p class = "text-left">
-Stephanie (italics) is a 3rd year student at the university of british columbia that seeks to work with [insert very specific topic/area of work] that evokes the unknown (replace) - the lostness; the distance.
+Stephanie (italics) is a 3rd year student at the University of British Columbia that seeks to work with [insert very specific topic/area of work] that evokes the unknown (replace) - the lostness; the distance.
               </p>
               <p>
                   <Button bsStyle="primary">Learn more</Button>
