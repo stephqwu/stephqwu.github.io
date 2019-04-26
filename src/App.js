@@ -105,7 +105,7 @@ Stephanie (italics) is a 3rd year student at the University of British Columbia 
                                       alt="https://mk0laterblog4vkmxupe.kinstacdn.com/wp-content/uploads/2018/03/visualplanner-animation-web.gif"></img>
                                       <div className="caption">
                                           <h3>IN PROGRESS - Later Analytics for Facebook</h3>
-                                          <p>Independently-developed feature that collects, stores, and displays analytics insights to a user for their Facebook account. <a target="_blank" rel="noopener noreferrer" href="https://later.com/blog/photo-editing-trends/">Gif credit</a>.</p>
+                                          <p>Autonomously-developed product feature that collects, stores, and displays analytics insights to a user for their Facebook account. <a target="_blank" rel="noopener noreferrer" href="https://later.com/blog/photo-editing-trends/">Gif credit</a>.</p>
                                           <ButtonToolbar className = "pull-right">
                                               <Button bsStyle="link" bsSize="default">
                                                   Demo
