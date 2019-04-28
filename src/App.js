@@ -33,19 +33,6 @@ class App extends Component {
                 </Navbar.Header>
                 <Navbar.Collapse>
                     <Nav pullRight>
-                        {/*<NavDropdown eventKey={3} title="Projects" pullRight={false} id="dropdown-menu-left">
-                            <MenuItem header>SOFTWARE DEVELOPMENT</MenuItem>
-                            <MenuItem eventKey={3.1} style={{left:0}}>Very personal and cool</MenuItem>
-                            <MenuItem eventKey={3.2} style={{left:0}}>UBC course finder</MenuItem>
-                            <MenuItem eventKey={3.3} style={{left:0}}>Trading app client</MenuItem>
-                            <MenuItem header>SOFTWARE DESIGN</MenuItem>
-                            <MenuItem eventKey={3.1} style={{left:0}}>Commerce Undergraduate Society of Vancouver</MenuItem>
-                            <MenuItem eventKey={3.2} style={{left:0}}>nwHacks 2018 Registration</MenuItem>
-                            <MenuItem header>DATA EXPERIMENTS AND ALGORITHM DESIGN</MenuItem>
-                            <MenuItem eventKey={3.3} style={{left:0}}>Some sick python</MenuItem>
-                            <MenuItem divider />
-                            <MenuItem eventKey={3.3}>View all projects</MenuItem>
-                        </NavDropdown>*/}
                         <NavItem eventKey={1} href="#">
                             Status
                         </NavItem>
