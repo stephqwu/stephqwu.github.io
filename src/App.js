@@ -71,7 +71,7 @@ Stephanie (italics) is a 3rd year student at the University of British Columbia 
               <p>In my spare time I like to share snippets on <a href="https://twitter.com/randomtechgirl">Twitter</a>,
                   contribute to projects on <a href="https://github.com/stephqwu">Github</a>, and clap on <a href="https://medium.com/@steph_w.">Medium</a>. </p>
               <br></br>
-              <p><span role="img" aria-label="Glitter">✨</span><em>Algorithm solutions <a href="https://gist.github.com/stephqwu">here</a></em><span role="img" aria-label="Glitter">✨</span></p>
+        {/*<p><span role="img" aria-label="Glitter">✨</span><em>Algorithm solutions <a href="https://gist.github.com/stephqwu">here</a></em><span role="img" aria-label="Glitter">✨</span></p>*/}
                   <p className="lead">
                       {/* <Button bsSize="large" href="#" role="button">Learn more</Button>
                       <a className="btn btn-primary btn-lg" href="#" role="button">See what I'm up to</a> */}
