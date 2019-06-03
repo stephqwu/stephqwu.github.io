@@ -71,7 +71,7 @@ Stephanie (italics) is a 3rd year student at the University of British Columbia 
               <p>In my spare time I like to share snippets on <a href="https://twitter.com/randomtechgirl">Twitter</a>,
                   contribute to projects on <a href="https://github.com/stephqwu">Github</a>, and clap on <a href="https://medium.com/@steph_w.">Medium</a>. </p>
               <br></br>
-        {/*<p><span role="img" aria-label="Glitter">✨</span><em>Algorithm solutions <a href="https://gist.github.com/stephqwu">here</a></em><span role="img" aria-label="Glitter">✨</span></p>*/}
+        <p><span role="img" aria-label="Glitter">💌</span> stephanie.wu@ubc.ca{/*<em>Algorithm solutions <a href="https://gist.github.com/stephqwu">here</a></em><span role="img" aria-label="Glitter">✨</span>*/}</p>
                   <p className="lead">
                       {/* <Button bsSize="large" href="#" role="button">Learn more</Button>
                       <a className="btn btn-primary btn-lg" href="#" role="button">See what I'm up to</a> */}
@@ -91,7 +91,7 @@ Stephanie (italics) is a 3rd year student at the University of British Columbia 
                                       src="./visualplanner-animation-web.gif"
                                       alt="https://mk0laterblog4vkmxupe.kinstacdn.com/wp-content/uploads/2018/03/visualplanner-animation-web.gif"></img>
                                       <div className="caption">
-                                          <h3>IN PROGRESS - Later Analytics for Facebook</h3>
+                                          <h3>Later Analytics for Facebook</h3>
                                           <p>Autonomously-developed product feature that collects, stores, and displays analytics insights to a user for their Facebook account. <a target="_blank" rel="noopener noreferrer" href="https://later.com/blog/photo-editing-trends/">Gif credit</a>.</p>
                                           <ButtonToolbar className = "pull-right">
                                               <Button bsStyle="link" bsSize="default">
