@@ -214,6 +214,7 @@ Stephanie (italics) is a 3rd year student at the University of British Columbia 
                                 <a href="https://stackoverflow.com/users/10745784/s-wu" target="_blank" rel="noopener noreferrer" className="so-ic"><i className="fa fa-stack-overflow fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a>
                                 {/* <a className="ins-ic"><i className="fa fa-instagram fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a>*/}
                                 <a href="https://medium.com/@steph_w." target="_blank" rel="noopener noreferrer" className="hr-ic"><i className="fa fa-medium fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a>
+<a href="https://medium.com/@steph_w." target="_blank" rel="noopener noreferrer" className="hr-ic"><i className="fa fa-pocket fa-lg white-text mr-md-5 mr-3 fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a>
                                 {/* <a href="https://www.pinterest.com/hmm__" target="_blank" rel="noopener noreferrer" className="pin-ic"><i className="fa fa-pinterest fa-lg white-text fa-2x" style={{color:"#D3D3D3", padding:12}}> </i></a> */}
                             </div>
                         </div>
